@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Email support
+    url: mailto:support@onism.ai
+    about: Prefer email? Send the same details to support@onism.ai.
+  - name: Support guide
+    url: https://play.onism.ai/support/
+    about: Common fixes for launch problems, Wine engines and controllers.

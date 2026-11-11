@@ -1,0 +1,14 @@
+name: Feature request
+description: Suggest something Onism Play should do
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What problem does it solve for you?
