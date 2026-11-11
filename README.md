@@ -31,4 +31,4 @@ Open an issue and include your macOS version, the game, the store it came from, 
 
 Onism Play bundles open-source software, including Legendary (GPLv3). The Legendary source that matches the shipped version is available from the download page. Full credits and license notices are on the [Credits & Licenses page](https://play.onism.ai/open-source/).
 
-Onism Play is an independent project. Game names and store names belong to their owners.
+All rights reserved for now; see [LICENSE](LICENSE). Onism Play is an independent project. Game names and store names belong to their owners.
