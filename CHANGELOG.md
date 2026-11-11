@@ -1,0 +1,136 @@
+# Changelog
+
+User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
+
+## 2.10.0 - November 11, 2026
+
+A new Activity page and achievements that sync on their own.
+
+- **NEW: Activity, rebuilt.** Hours with a trend, your streak and best day, a calendar and a when-you-play heatmap, and one row per game.
+- **NEW: Achievements sync in the background.** Every Steam, GOG and Epic game updates by itself, with rarity labels and the games closest to finished.
+- **IMPROVED: Save backups in the Library.** Save backups moved from Activity to a button in the Library header.
+
+## 2.9.0 - November 11, 2026
+
+Controller test sheet, per-game pads and a quieter Play page.
+
+- **FIXED: Test Vibration vibrates.** The test now plays a real buzz, and you can test the left and right motors separately.
+- **NEW: Smarter controller test sheet.** Button names follow your pad, sticks are checked for drift, and DualSense pads get a light bar colour picker.
+- **NEW: Per-game pad choices.** Hide a pad from one game (experimental). A game's PlayStation mode is now remembered after a restart.
+
+## 2.8.1 - November 10, 2026
+
+The audio monitor knows which headset head tracking follows.
+
+- **FIXED: No false headset mismatch.** A renamed or look-alike headset no longer shows a false or missed mismatch in the monitor.
+
+## 2.8.0 - November 10, 2026
+
+PHASE audio monitor, in-game overlay and automatic engine link.
+
+- **NEW: Audio monitor.** A menu-bar popover shows whether PHASE is rendering, the speaker layout, per-channel levels and head direction.
+- **NEW: In-game overlay.** A click-through overlay toggled with ctrl-cmd-A, placed in a corner or dragged anywhere.
+- **NEW: Restore original audio.** Put an engine's audio back to how it was from Tune → Engines.
+
+## 2.1.0 - November 6, 2026
+
+Surround sound on headphones, with AirPods head tracking.
+
+- **NEW: PHASE surround.** Choose Off, PHASE Surround or Head-tracked Surround per game, in Tune and in TV Mode. It needs a PHASE-enabled engine.
+- **NEW: AirPods head tracking.** Live status, plus recenter controls that stay available during play. Motion data never leaves your Mac.
+- **FIXED: No freeze when switching games.** Cloud-save details now load in the background, and a running game is recovered if you reopen the app.
+
+## 2.0.0 - November 5, 2026
+
+A redesign: new Play page, floating sidebar and TV Mode.
+
+- **NEW: TV Mode.** A full-screen mode for keyboard or controller, with its own library, game details and per-game Tune.
+- **NEW: New Play page and sidebar.** A full-width hero, landscape shelves and a floating sidebar. Game Tune, Engines and Controllers each get their own page.
+- **IMPROVED: Needs attention.** The library lists installed games with a known problem and says why.
+
+## 1.29.0 - November 4, 2026
+
+Hide a store you don't use.
+
+- **NEW: Hide store.** Every store page has a Hide store button. Hidden stores come back from the bottom of the Stores page, and their games stay in your library.
+
+## 1.28.0 - November 4, 2026
+
+The whole hero image, and a shortcut to minimize your game.
+
+- **NEW: Minimize game shortcut.** Press ctrl-cmd-M to hide the running game and return to Onism Play, and again to bring it back. You can change it in Settings.
+- **FIXED: Hero image no longer cropped.** The Play banner follows the art's own shape, so the top and bottom of the picture show.
+
+## 1.27.6 - November 4, 2026
+
+The EA app runs on the Apple graphics engine.
+
+- **IMPROVED: EA app on D3DMetal or DXMT.** Like Ubisoft Connect, the EA app now uses an engine with D3DMetal or DXMT, so DirectX 12 games started from it can run.
+
+## 1.27.5 - November 4, 2026
+
+Clearer EA and Ubisoft pages.
+
+- **IMPROVED: Account first.** Launcher store pages show the account state and main action first, with a neutral note instead of a warning about how these stores work.
+- **IMPROVED: Set up engine.** On an install with no Wine engine yet, the main button says Set up engine instead of an Install button that fails.
+
+## 1.27.2 - November 4, 2026
+
+Your EA games, not just installed ones.
+
+- **NEW: Owned EA games.** Sync library on the EA app page now lists the games your EA account owns. Install opens the EA app.
+- **IMPROVED: Ubisoft install uses the right engine.** Ubisoft's Install now starts the launcher on the same engine as its games.
+
+## 1.27.0 - November 4, 2026
+
+Your Ubisoft Connect library, and Install from Onism Play.
+
+- **NEW: Owned Ubisoft games.** Sync library now lists every Ubisoft Connect game you own, not just installed ones.
+- **NEW: Install from Onism Play.** Install opens the game's install in the launcher. Finish there, then sync again.
+
+## 1.26.1 - November 4, 2026
+
+Open launcher no longer looks dead.
+
+- **FIXED: Stuck launcher restarts.** Open launcher on Ubisoft Connect or the EA app now restarts a launcher that is already running.
+- **FIXED: No blank Ubisoft window.** Ubisoft Connect now starts with the same rendering switches as the EA app, so its login page draws.
+
+## 1.26.0 - November 4, 2026
+
+Ubisoft Connect and the EA app.
+
+- **NEW: Two new stores.** Ubisoft Connect and the EA app appear on the Stores page, in the library filter and in the environment list, each with its own bottle.
+- **NEW: Install and sync.** Each store page installs the launcher, opens it to sign in and syncs the games you install through it.
+
+## 1.25.0 - November 4, 2026
+
+A calmer Play screen.
+
+- **IMPROVED: Full-width shelves.** Recently played and Installed stack at full width, with evenly sized posters and quieter section headers.
+- **FIXED: Readable in dark mode.** The glow behind bright artwork is fainter, so text over it meets the 4.5:1 contrast target.
+
+## 1.23.0 - November 4, 2026
+
+Themes, engine builds from the app, and a more tactile Play screen.
+
+- **NEW: Color themes.** Pick Cream, Midnight, Graphite or Theater in Settings, plus a Light, Dark or System toggle in the toolbar.
+- **NEW: Build engines from the app.** Build Engine now works from the installed app, and the Engines page has an Apple Game Porting Toolkit card.
+
+## 1.22.0 - November 4, 2026
+
+The onismplay command ships inside the app.
+
+- **NEW: Command line tool.** Install the onismplay command from Settings. If the app moves, Settings says so and Reinstall repairs the link.
+
+## 1.21.0 - November 4, 2026
+
+About credits every third-party component.
+
+- **NEW: Credits and licenses.** The About window lists the software Onism Play is built on, with licenses and links. View licenses opens the full notices.
+
+## 1.20.0 - November 4, 2026
+
+Fully renamed.
+
+- **IMPROVED: One name everywhere.** The app, command-line tool, data folder and packaging all use the Onism Play name. Your library, saves, bottles and engines move over on first launch.
+
