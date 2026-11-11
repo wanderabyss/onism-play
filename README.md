@@ -14,7 +14,7 @@ Run Windows games on your Mac. Onism Play is a native Apple Silicon app that ins
 
 ## About this repository
 
-This repository holds release notes, tags and issue tracking for Onism Play. It does not contain the app's source code. Downloads are served from https://dl-play.onism.ai and are signed and notarized by Apple. Check the SHA-256 on the download page before opening a disk image.
+This repository holds release notes, tags and issue tracking for Onism Play. It does not contain the app's source code. Check the SHA-256 on the download page before opening a disk image.
 
 ## Reporting problems
 
