@@ -9,6 +9,7 @@ Run Windows games on your Mac. Onism Play is a native Apple Silicon app that ins
 - Website and download: https://play.onism.ai
 - Latest release: see [Releases](https://github.com/wanderabyss/onism-play/releases) and the [Download page](https://play.onism.ai/download/)
 - What changed: [CHANGELOG.md](CHANGELOG.md)
+- Credits and licenses: https://play.onism.ai/open-source/
 - Contact: play@onism.ai
 
 ## Requirements
@@ -26,6 +27,6 @@ Open an issue and include your macOS version, the game, the store it came from, 
 
 ## Open-source components
 
-Onism Play bundles open-source software, including Legendary (GPLv3). The Legendary source that matches the shipped version is available from the download page.
+Onism Play bundles open-source software, including Legendary (GPLv3). The Legendary source that matches the shipped version is available from the download page. Full credits and license notices are on the [Credits & Licenses page](https://play.onism.ai/open-source/).
 
 Onism Play is an independent project. Game names and store names belong to their owners.
