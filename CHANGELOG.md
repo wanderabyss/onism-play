@@ -2,6 +2,14 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.11.0 - November 11, 2026
+
+Onism Play can now update itself.
+
+- **NEW: Automatic updates.** The app asks the first time you open it whether to check for updates, and you can change that any time in Settings.
+- **NEW: Installs that wait for your game.** Updates install when you quit the app and wait for a running game.
+- **NEW: Check for Updates….** Available in the app menu and in Settings, with the time of your last check.
+
 ## 2.10.0 - November 11, 2026
 
 A new Activity page and achievements that sync on their own.
