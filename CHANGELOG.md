@@ -2,6 +2,13 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.12.0 - November 11, 2026
+
+A readability fix and clearer credit for CrossOver.
+
+- **FIXED: Readable Continue playing card.** The Continue playing card on the Activity page stays readable on artwork that has its own logo or banner.
+- **IMPROVED: CrossOver credit.** Credits now name CodeWeavers' open-source CrossOver Wine, the source Engine 2.0 is built from.
+
 ## 2.11.0 - November 11, 2026
 
 Onism Play can now update itself.
