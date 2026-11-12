@@ -2,6 +2,14 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.13.1 - November 12, 2026
+
+Fixes for launching and ending Steam games.
+
+- **FIXED: Games set to a missing engine now launch.** A game pinned to an engine that is no longer installed used to fail to start. Onism Play now uses another engine and tells you.
+- **FIXED: Steam sessions end properly.** A Steam game no longer shows Playing when only Steam is open, and its session ends when the game or Steam quits.
+- **IMPROVED: Open Steam goes to the game.** Open Steam on a game, and Play, now show that game's page in the Steam library. Launch errors also show their real message.
+
 ## 2.13.0 - November 12, 2026
 
 Steam handles its own games, and setup explains engines and the Apple toolkit.
