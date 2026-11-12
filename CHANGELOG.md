@@ -2,6 +2,12 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.14.3 - November 12, 2026
+
+Patch release. After you allow Wine through the firewall, Settings keeps saying so instead of the card disappearing.
+
+- **FIXED: Firewall access stays visible in Settings.** Once Wine is allowed through the firewall, Settings keeps showing it as granted, including after a restart, instead of the card disappearing.
+
 ## 2.14.2 - November 12, 2026
 
 Firewall banner, Steam session ending fix.
