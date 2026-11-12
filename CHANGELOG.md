@@ -2,6 +2,13 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.14.1 - November 12, 2026
+
+Clearer Homebrew setup for Engine 2.0.
+
+- **IMPROVED: Homebrew install steps in setup.** When Engine 2.0 needs Homebrew packages and Homebrew is missing, setup now shows the steps, the official install command, an Open Terminal button and a link to the install guide on the website. Check again continues the build.
+- **IMPROVED: Smaller Play pill.** The Play pill in the app's header is smaller.
+
 ## 2.14.0 - November 12, 2026
 
 One step to stop the macOS firewall pop-ups.
