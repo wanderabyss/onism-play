@@ -2,6 +2,13 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.15.0 - November 12, 2026
+
+Minor release. Settings is now a section list on the left and the chosen section on the right, and About is a Settings page with the full version and build number.
+
+- **NEW: Two-panel Settings with search.** A section list with a search field on the left and the selected section on the right. The window opens smaller and remembers the last section.
+- **NEW: About page.** App icon, version and build number, with icon links for the website, GitHub and a Credits page with the third-party licenses.
+
 ## 2.14.3 - November 12, 2026
 
 Patch release. After you allow Wine through the firewall, Settings keeps saying so instead of the card disappearing.
