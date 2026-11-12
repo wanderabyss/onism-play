@@ -2,6 +2,14 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.17.0 - November 12, 2026
+
+Minor release. Onism Play asks once, then installs Homebrew and the engine build tools for you in Terminal, and offers to build the bottles too.
+
+- **NEW: One-click build tools.** When Homebrew is missing, Set up build tools opens Terminal and installs Homebrew and the engine build tools for you. Nothing runs until you press the button.
+- **NEW: Build the bottles too.** After the tools are ready, choose Yes or Not now to build the Epic and GOG bottles. Not now leaves a Build Bottles button in Engines.
+- **IMPROVED: Clearer permission sheet.** The sheet says what the button starts, lists the tools first and is large enough to read without scrolling.
+
 ## 2.16.0 - November 12, 2026
 
 Minor release. Onism Play has a single menu bar icon from launch, with Continue playing when idle and the Spatial Audio monitor during spatial games.
