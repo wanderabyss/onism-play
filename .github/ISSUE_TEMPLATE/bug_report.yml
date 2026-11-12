@@ -1,0 +1,42 @@
+name: Bug report
+description: Something in Onism Play isn't working
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Please don't post account details, passwords or logs that contain them.
+  - type: input
+    id: version
+    attributes:
+      label: Onism Play version
+      description: Settings, or the bottom of the sidebar.
+    validations:
+      required: true
+  - type: input
+    id: mac
+    attributes:
+      label: Mac model, chip and macOS version
+      placeholder: MacBook Pro, M2 Pro, macOS 26.1
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game and store
+      description: The game's name, and Steam, Epic Games, GOG, Ubisoft Connect or EA app.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+  - type: textarea
+    id: logs
+    attributes:
+      label: Diagnostic logs (optional)
+      description: Switch on Verbose diagnostic logs in the game's Game Tune, reproduce the problem, then paste the relevant lines. Remove anything personal first.
+      render: text
