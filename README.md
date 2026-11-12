@@ -8,12 +8,12 @@
 
 Run Windows games on your Mac. Onism Play is a native Apple Silicon app that installs and plays your Steam, Epic Games, GOG, Ubisoft Connect and EA app libraries, and manages Wine engines, graphics backends and per-game tuning in one place.
 
-- Website and download: https://play.onism.ai
+- Website and download: [play.onism.ai](https://play.onism.ai)
 - Latest release: see [Releases](https://github.com/wanderabyss/onism-play/releases) and the [Download page](https://play.onism.ai/download/)
-- Install guide: https://play.onism.ai/install-guide/
+- Install guide: [Install guide](https://play.onism.ai/install-guide/)
 - What changed: [CHANGELOG.md](CHANGELOG.md)
-- Credits and licenses: https://play.onism.ai/open-source/
-- Contact: play@onism.ai
+- Credits and licenses: [Credits & Licenses](https://play.onism.ai/open-source/)
+- Contact: [play@onism.ai](mailto:play@onism.ai)
 
 ## Requirements
 
