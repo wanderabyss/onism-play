@@ -1,3 +1,9 @@
+---
+name: Bug report
+about: Something in Onism Play isn't working
+labels: bug
+---
+
 Please don't post account details, passwords or logs that contain them.
 
 **Onism Play version** (Settings, or the bottom of the sidebar)
