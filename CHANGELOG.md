@@ -2,6 +2,12 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.15.2 - November 12, 2026
+
+Patch release. Game shortcuts has a new Open Settings shortcut that works from any app.
+
+- **NEW: Open Settings shortcut.** Press Control-Command-comma from any app, including with a game in front, to open Settings. It can be changed or turned off in Settings, Game shortcuts.
+
 ## 2.15.1 - November 12, 2026
 
 Patch release. The bottom of the main sidebar is now the version on the left and a bare Settings gear on the right, and the Bottles list moved into Settings.
