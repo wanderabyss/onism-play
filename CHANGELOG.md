@@ -2,6 +2,14 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.14.2 - November 12, 2026
+
+Firewall banner, Steam session ending fix.
+
+- **IMPROVED: The Allow Wine offer now shows as a banner above every page.** The Allow Wine offer now shows as a banner above every page, so you see it where the firewall pop-ups happen.
+- **FIXED: A Steam game with a symbol in its name.** A Steam game with a symbol in its name (such as War in the North™) no longer stays on Playing after you close it.
+- **IMPROVED: Launching skips a redundant Wine step.** Launching skips a redundant Wine step, and each launch log now records how long the pre-launch steps took.
+
 ## 2.14.1 - November 12, 2026
 
 Clearer Homebrew setup for Engine 2.0.
