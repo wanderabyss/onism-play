@@ -2,6 +2,14 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.16.0 - November 12, 2026
+
+Minor release. Onism Play has a single menu bar icon from launch, with Continue playing when idle and the Spatial Audio monitor during spatial games.
+
+- **NEW: One menu bar icon.** Onism Play now shows one menu bar icon from launch. Its popover has Continue playing, Settings, the version Quit and a Show Onism Play option for when the window is closed, and switches to the Spatial Audio monitor while a game plays with spatial audio.
+- **IMPROVED: Close game keeps the app open.** Close game in the monitor now ends only the running game. Onism Play stays open, and Quit is its own action.
+- **IMPROVED: Matching glass popovers.** The idle and Spatial Audio popovers share the same glass panel, compact header and gold action chips.
+
 ## 2.15.3 - November 12, 2026
 
 Patch release. The command line tool says when it is already installed, Engines uses its empty space, and the Command Palette and Settings shortcuts work from any window.
