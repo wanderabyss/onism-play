@@ -2,6 +2,14 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.13.0 - November 12, 2026
+
+Steam handles its own games, and setup explains engines and the Apple toolkit.
+
+- **NEW: Steam installs and deletes in Steam.** Steam games show Open Steam instead of Install and Uninstall. Download in the Steam client and the game appears in your library. The Steam page has one Open Steam / Close Steam button.
+- **IMPROVED: Clearer first-run setup.** Setup offers Epic Games and GOG, confirms when you are signed in, and explains Engine 1.0 (DirectX 9–11) and Engine 2.0 (DirectX 12) with Apple's Game Porting Toolkit, so you choose which to download first.
+- **FIXED: Clear message when updates cannot install.** Run from a disk image or Downloads, Onism Play now tells you to move it to Applications instead of failing to update.
+
 ## 2.12.0 - November 11, 2026
 
 A readability fix and clearer credit for CrossOver.
