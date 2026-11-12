@@ -10,6 +10,7 @@ Run Windows games on your Mac. Onism Play is a native Apple Silicon app that ins
 
 - Website and download: https://play.onism.ai
 - Latest release: see [Releases](https://github.com/wanderabyss/onism-play/releases) and the [Download page](https://play.onism.ai/download/)
+- Install guide: https://play.onism.ai/install-guide/
 - What changed: [CHANGELOG.md](CHANGELOG.md)
 - Credits and licenses: https://play.onism.ai/open-source/
 - Contact: play@onism.ai
@@ -18,6 +19,10 @@ Run Windows games on your Mac. Onism Play is a native Apple Silicon app that ins
 
 - Mac with Apple Silicon (M1 or later)
 - macOS 26 or later
+
+## Install guide
+
+Step-by-step instructions for installing Onism Play, setting up its dependencies and adding your first game are on the [install guide](https://play.onism.ai/install-guide/).
 
 ## About this repository
 
