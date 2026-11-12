@@ -2,6 +2,14 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.15.3 - November 12, 2026
+
+Patch release. The command line tool says when it is already installed, Engines uses its empty space, and the Command Palette and Settings shortcuts work from any window.
+
+- **FIX: Command line tool shows Already installed.** In Settings, Command line tool, the button now reads Already installed (disabled) when the tool is linked to this app, instead of offering to install it again.
+- **FIX: Engines build commands on the right.** Or build in Terminal moves to the right column of Engines, under Which engine, so the left column is shorter.
+- **FIX: Command K and Command comma.** Command-K opens the command palette in the main window even when Settings is in front, and Command-comma always opens and fronts Settings.
+
 ## 2.15.2 - November 12, 2026
 
 Patch release. Game shortcuts has a new Open Settings shortcut that works from any app.
