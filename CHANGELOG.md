@@ -2,6 +2,13 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.15.1 - November 12, 2026
+
+Patch release. The bottom of the main sidebar is now the version on the left and a bare Settings gear on the right, and the Bottles list moved into Settings.
+
+- **IMPROVED: Cleaner sidebar footer.** The version sits on the left and a bare Settings gear on the right, replacing the wide Settings button and the build line.
+- **IMPROVED: Bottles have their own Settings section.** The per-store Wine environments moved from the Engines page to a Bottles section in Settings, with Browse above Reset on each row.
+
 ## 2.15.0 - November 12, 2026
 
 Minor release. Settings is now a section list on the left and the chosen section on the right, and About is a Settings page with the full version and build number.
