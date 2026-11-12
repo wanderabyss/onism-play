@@ -2,6 +2,12 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.14.0 - November 12, 2026
+
+One step to stop the macOS firewall pop-ups.
+
+- **NEW: Allow Wine through the firewall.** macOS kept asking whether Wine's helper programs may accept incoming connections. A new Allow Wine button in Settings and setup adds them to the firewall's allowed list with one administrator prompt. The firewall stays on, and a program Wine has not run before can still ask once.
+
 ## 2.13.1 - November 12, 2026
 
 Fixes for launching and ending Steam games.
