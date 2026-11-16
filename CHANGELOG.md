@@ -2,6 +2,14 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.21.0 - November 15, 2026
+
+New surround bass controls, clearer game settings, and fixes for artwork, launch options and memory reporting.
+
+- **NEW: Surround bass controls.** Choose Off, Blend or Center bass, adjust its level, and recenter head tracking with Control-Command-R.
+- **IMPROVED: Clearer game settings.** Find Launch, Display, Graphics and Audio settings faster, with cleaner game details and more flexible layouts.
+- **FIXED: More reliable game setup.** Fixes Steam artwork recovery, saved launch options, game memory reporting and a head-tracking Motion permission crash.
+
 ## 2.17.0 - November 12, 2026
 
 Minor release. Onism Play asks once, then installs Homebrew and the engine build tools for you in Terminal, and offers to build the bottles too.
