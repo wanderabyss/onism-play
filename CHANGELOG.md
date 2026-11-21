@@ -2,6 +2,14 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.26.2 - November 21, 2026
+
+Steam games return to Play when you close them, launch with one request, and Steam closes when Onism Play quits.
+
+- **FIXED: Steam games return to Play when the game closes.** Onism Play watches a Steam game from launch, so closing it clears Playing even while Steam stays open.
+- **FIXED: Steam launches are reliable.** Play sends Steam one request and shows Starting until the game runs, then returns to Play with a notice if it never starts.
+- **IMPROVED: Steam closes when Onism Play quits.** Quitting asks Steam in Onism Play's own bottle to exit, never force-closing it while a game runs. Game Tune cards also stop repeating.
+
 ## 2.21.0 - November 15, 2026
 
 New surround bass controls, clearer game settings, and fixes for artwork, launch options and memory reporting.
