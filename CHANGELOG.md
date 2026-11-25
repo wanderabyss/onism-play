@@ -2,6 +2,14 @@
 
 User-facing release notes for Onism Play. Downloads: https://play.onism.ai/download/
 
+## 2.30.0 - November 24, 2026
+
+See how much memory each game used, find Game Tune settings in five tabs, and use the Rockstar launcher with Epic games. Some Rockstar games don't run yet.
+
+- **NEW: Last session memory use.** Each game shows its last session's peak memory next to its video memory budget, and enhanced memory reporting now counts reclaimable memory.
+- **IMPROVED: Game Tune in five tabs.** Launch, Display, Graphics, Audio and Advanced replace one long page, on a game's page and on the sidebar's Game Tune page.
+- **NEW: Rockstar launcher on engine 2.0.** The launcher opens and signs in, and Red Dead games from Epic start through it. Rockstar, Ubisoft and EA pages can delete their launcher. 32-bit and anti-cheat games don't run yet.
+
 ## 2.26.2 - November 21, 2026
 
 Steam games return to Play when you close them, launch with one request, and Steam closes when Onism Play quits.
